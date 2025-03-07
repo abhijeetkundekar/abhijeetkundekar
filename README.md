@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Abhijeet Kundkear
+## Hi there! 👋 I'm Abhijeet Kundekar
 
 🚀 Full Stack Developer | React | Next.js | Python (Flask & Django) | AWS Enthusiast
 
