@@ -3,7 +3,7 @@
 🚀 Full Stack Developer | React | Next.js | Python (Flask & Django) | AWS Enthusiast
 
 ### 🔧 Technologies & Tools:
-- **Frontend:** Javascript, React, Next.js, Tailwind CSS, Html
+- **Frontend:** Html,Javascript, React, Next.js, Tailwind CSS
 - **Backend:** Python, Flask, Django
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Cloud & DevOps:** AWS ( EC2, S3, DynamoDB, RDS, CloudFront, Amplify, Beanstalk, Route53)
