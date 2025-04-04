@@ -4,10 +4,10 @@
 
 ### 🔧 Technologies & Tools:
 - **Frontend:** Html,Javascript, React, Next.js, Tailwind, CSS
-- **Backend:** Python, Flask, Django
+- **Backend:** Java, Python, Flask, Django
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Cloud & DevOps:** AWS ( EC2, S3, DynamoDB, RDS, CloudFront, Amplify, Beanstalk, Route53)
-- **Other Tools:** REST APIs
+- **Cloud & DevOps:** AWS ( EC2, S3, DynamoDB, RDS, CloudFront, Amplify, Beanstalk, Route53, Lightsail)
+- **Other Tools:** REST APIs, CI/CD, Docker
 
 
 
