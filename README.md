@@ -17,7 +17,7 @@
 🔹 [More Projects...](https://github.com/yourusername) -->
 
 ### 📫 Connect with Me
-- LinkedIn: [your-linkedin](www.linkedin.com/in/abhijeet-kundekar)
+- LinkedIn: www.linkedin.com/in/abhijeet-kundekar
 - Twitter: [your-twitter](https://x.com/AbhiKundekar)
 
 
