@@ -18,7 +18,7 @@
 
 ### 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/abhijeet-kundekar
-- Twitter: [your-twitter](https://x.com/AbhiKundekar)
+- Twitter: https://x.com/AbhiKundekar
 
 
 ### ⚡ Fun Fact
